@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/liweilijie/Downloads/lookupfile-1/autoload'
+let g:netrw_dirhist_2='/Users/liweilijie/Documents/software/emacs-23.4/nextstep/GNUstep/Emacs.base'
+let g:netrw_dirhist_3='/Users/liweilijie/.emacs.d/site-lisp'
+let g:netrw_dirhist_4='/Users/liweilijie/.emacs.d/site-lisp/org-8.3.1'
+let g:netrw_dirhist_5='/Users/liweilijie/orgpress/ci'
+let g:netrw_dirhist_6='/Users/liweilijie/emacsvi.github.io/stylesheets'
+let g:netrw_dirhist_7='/Users/liweilijie/.vim/doc'
